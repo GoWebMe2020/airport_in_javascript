@@ -9,9 +9,16 @@ Repeating a previous challenge, completed in Ruby, in JavaScript
 
 As an air traffic controller<br>
 To get passengers to a destination<br>
-I want to instruct a plane to land atan airport and confirm that it has landed<br>
+I want to instruct a plane to land at an airport and confirm that it has landed<br>
+
+As an air traffic controller<br>
+To get passengers to a destination<br>
+I want to instruct a plane to take off from an airport and confirm that it is no longer in the airport<br>
 
 ## Build status
+
+* Completed user story 1 with tests passing.
+* Completed user story 2 with tests passing.
 
 ## Code style
 
